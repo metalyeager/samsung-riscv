@@ -7,7 +7,7 @@
 **College:** RV Institute of Technology and Management 
 **Email ID:** srinivasanamish@gmail.com  
 **GitHub Profile:** [metalyeager](https://github.com/metalyeager)  
-**LinkedIN Profile:** [maazm-ece-vlsi](https://www.linkedin.com/in/amish-srinivasan-528448298/)
+**LinkedIN Profile:** [Amish Srinivasan S](https://www.linkedin.com/in/amish-srinivasan-528448298/)
 Samsung RISC-V Course progress snapshots:
 
 # Task 1
