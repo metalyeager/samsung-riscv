@@ -1,6 +1,7 @@
 # samsung-riscv
 
 Samsung RISC-V Course progress snapshots:
+
 Task 1
 <details>
 <summary>C based Lab Screenshots</summary>
