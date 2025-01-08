@@ -1,8 +1,16 @@
-# samsung-riscv
+# RISC-V Internship program powered by SAMSUNG and VSD
+### This RISC-V Internship using VSDSquadron Mini is based on RISC-V architecture and uses open-source tools to teach students about VLSI SoC Design and RISC-V. The instructor and guide for this internship is Kunal Ghosh Sir, Founder of VSD.
 
+##  Basic Details
+
+**Name:** Amish Srinivasan S  
+**College:** RV Institute of Technology and Management 
+**Email ID:** srinivasanamish@gmail.com  
+**GitHub Profile:** [metalyeager](https://github.com/metalyeager)  
+**LinkedIN Profile:** [maazm-ece-vlsi](https://www.linkedin.com/in/amish-srinivasan-528448298/)
 Samsung RISC-V Course progress snapshots:
 
-Task 1
+# Task 1
 <details>
 <summary>C based Lab Screenshots</summary>
 <br>
