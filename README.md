@@ -4,7 +4,7 @@
 ##  Basic Details
 
 **Name:** Amish Srinivasan S  
-**College:** RV Institute of Technology and Management 
+**College:** RV Institute of Technology and Management                                         
 **Email ID:** srinivasanamish@gmail.com  
 **GitHub Profile:** [metalyeager](https://github.com/metalyeager)  
 **LinkedIN Profile:** [Amish Srinivasan S](https://www.linkedin.com/in/amish-srinivasan-528448298/)
