@@ -8,7 +8,7 @@
 **Email ID:** srinivasanamish@gmail.com  
 **GitHub Profile:** [metalyeager](https://github.com/metalyeager)  
 **LinkedIN Profile:** [Amish Srinivasan S](https://www.linkedin.com/in/amish-srinivasan-528448298/)
-Samsung RISC-V Course progress snapshots:
+
 
 # Task 1
 <details>
