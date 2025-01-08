@@ -6,11 +6,13 @@ Task 1
 <summary>C based Lab Screenshots</summary>
 <br>
 Running the C code for calculating sum of numbers from 1 to 15
-![WhatsApp Image 2025-01-06 at 23 46 14_66845bc9](https://github.com/user-attachments/assets/3d5caec5-1eb0-44cf-8fbe-cce096d71e84)
+![WhatsApp Image 2025-01-06 at 23 46 13_907fca43](https://github.com/user-attachments/assets/10dd4878-caa1-4dea-829b-4790631abd14)
 </details>
+<details>
 <summary>RISC-V based lab screenshots</summary>
 <br>
 observing the assembly level instructions using -Ofast
-![WhatsApp Image 2025-01-07 at 00 12 42_ed194b28](https://github.com/user-attachments/assets/0add99a4-496b-498f-af08-7ac446952d0f)
+![WhatsApp Image 2025-01-07 at 00 12 41_5a49a897](https://github.com/user-attachments/assets/6268329b-f886-4582-bee8-b68b192e2e1a)
+
 
 </details>
