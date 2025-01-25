@@ -181,11 +181,4 @@ Immediate: 0 → 000000000000 (12 bits, sign-extended)
 Overall Encoding:
 000000000000 | 00001 | 000 | 00000 | 1100111
 </details>
-<details>
-<summary>RISC-V based lab screenshots</summary>
-<br>
 
-![WhatsApp Image 2025-01-07 at 00 12 41_5a49a897](https://github.com/user-attachments/assets/6268329b-f886-4582-bee8-b68b192e2e1a)
-
-
-</details>
