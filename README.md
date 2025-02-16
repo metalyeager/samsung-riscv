@@ -229,8 +229,6 @@ $ ./iiitb_rv32i
 `$ gtkwave iiitb_rv32i.vcd`
 
 ### 4.3 The output waveform
-
- The output waveform showing the instructions performed in a 5-stage pipelined architecture.
  
  Instruction 1:add r6,r2,r1
  
