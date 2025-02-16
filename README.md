@@ -271,3 +271,11 @@ $ ./iiitb_rv32i
  ![image](https://github.com/user-attachments/assets/1afe2bb4-5055-4958-913b-f9719ed5b40c)
 
 </details>
+
+# Task 5
+
+## PDF containing explaination of project idea
+[Task5_samsungriscv.pdf](https://github.com/user-attachments/files/18815973/Task5_samsungriscv.pdf)
+
+## Code to be used
+
