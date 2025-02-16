@@ -274,8 +274,12 @@ $ ./iiitb_rv32i
 
 # Task 5
 
+<details>
 ## PDF containing explaination of project idea
+ 
 [Task5_samsungriscv.pdf](https://github.com/user-attachments/files/18815973/Task5_samsungriscv.pdf)
+ 
+</details>
 
 ## Code to be used
 
