@@ -246,13 +246,14 @@ $ ./iiitb_rv32i
 
  Instruction 4:or r9,r2,r5
  
-![Image](https://github.com/user-attachments/assets/d32c3e0f-385d-4ea9-8eca-36453c7c536d)
+ ![Image](https://github.com/user-attachments/assets/d32c3e0f-385d-4ea9-8eca-36453c7c536d)
 
  Instruction 5:xor r10,r1,r4
  
 ![Image](https://github.com/user-attachments/assets/448bc592-c25c-4819-a5fb-26d67066549a)
 
  Instruction 6:slt r11,r2,r4
+ 
  ![Image](https://github.com/user-attachments/assets/db820b84-7ba8-4025-9aac-085f7c4232a4)
 
  Instruction 7:addi r12,r4,5
@@ -264,16 +265,11 @@ $ ./iiitb_rv32i
  ![Image](https://github.com/user-attachments/assets/e9a439af-6861-4c2d-b781-7666bc3abfb3)
 
  Instruction 9:lw r13,r1,2
+ 
  ![Image](https://github.com/user-attachments/assets/afe41c20-05da-4e39-a88f-dfa03e038afa)
 
  Instruction 10:beq r0,r0,15
+ 
  ![image](https://github.com/user-attachments/assets/1afe2bb4-5055-4958-913b-f9719ed5b40c)
-
- 
- 
-
- Full 5-stage instruction pipeline and pc-increment description Waveform
- 
- <img width="1325" alt="full-pipeline-description" src="https://user-images.githubusercontent.com/110079631/183015739-3666a275-557b-43a4-b024-542e0aeb7975.png">
 
 </details>
