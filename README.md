@@ -283,15 +283,13 @@ $ ./iiitb_rv32i
 
 # Task 6
 
-<details>
- <summary>Codes
+
+ <summary>The codes, the output screenshots, and the video of setup is in the Task6 file 
  </summary>
- Code for Raspberry Pi 4 B to retrieve cloud data and send the data to VSDSquadron Mini: 
- 
- [vsd.txt](https://github.com/user-attachments/files/18816051/vsd.txt)
 
 
 
 
-</details>
+
+
 
