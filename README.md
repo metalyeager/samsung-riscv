@@ -275,11 +275,23 @@ $ ./iiitb_rv32i
 # Task 5
 
 <details>
-## PDF containing explaination of project idea
+<summary> PDF containing explaination of project idea </summary>
  
 [Task5_samsungriscv.pdf](https://github.com/user-attachments/files/18815973/Task5_samsungriscv.pdf)
  
 </details>
 
-## Code to be used
+# Task 6
+
+<details>
+ <summary>Codes
+ </summary>
+ Code for Raspberry Pi 4 B to retrieve cloud data and send the data to VSDSquadron Mini: 
+ 
+ [vsd.txt](https://github.com/user-attachments/files/18816051/vsd.txt)
+
+
+
+
+</details>
 
